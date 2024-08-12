@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Data Analytics
 - 🌱 I’m currently learning ... Python, R, and other data analytics and visualization tools
 - 👩‍🎓 I'm going to school for ... a Data Analytics Certificate
-- 📫 How to reach me ... https://www.linkedin.com/in/sarah-cotterman-wells/ 
+- 📫 How to reach me ... https://www.linkedin.com/in/smwells1995/
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I was a Girl Scout _and_ a Boy Scout (through Venture Crew)
 
