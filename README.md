@@ -1,10 +1,13 @@
 - 👋 Hi, I’m Sarah (@smwells1995)
+- 😄 Pronouns: ... she/her
 - 👀 I’m interested in ... Data Analytics
 - 🌱 I’m currently learning ... Python, R, and other data analytics and visualization tools
 - 👩‍🎓 I'm going to school for ... a Data Analytics Certificate
-- 📫 How to reach me ... https://www.linkedin.com/in/smwells1995/
-- 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... I was a Girl Scout _and_ a Boy Scout (through Venture Crew)
+- 📫 Where to find me:
+- ... https://www.linkedin.com/in/smwells1995/
+- ... https://www.kaggle.com/smwells1995
+
+
 
 <!---
 smwells1995/smwells1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
